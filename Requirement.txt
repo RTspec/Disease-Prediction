@@ -1,0 +1,17 @@
+# Core
+numpy
+pandas
+scikit-learn
+joblib
+
+# NLP (needed only for the symptom-based / free-text input mode)
+nltk
+spacy
+
+# Web interface (keep whichever one you actually use, remove the other)
+streamlit
+flask
+
+# Visualization (used in notebooks / EDA)
+matplotlib
+seaborn
